@@ -115,7 +115,7 @@ int main() {
         }
     } while (opcionPrincipal != 5);
 
-
+    // Guardar datos en los archivos al cerrar
     guardarMateriasEnArchivo("materias.txt", materias, totalMaterias);
     guardarEstudiantesEnArchivo("estudiantes.txt", estudiantes, totalEstudiantes);
     guardarProfesoresEnArchivo("profesores.txt", profesores, totalProfesores);

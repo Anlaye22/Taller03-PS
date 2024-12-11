@@ -13,6 +13,5 @@ void gestionarMateria();
 int crearMateria();
 void editarMateria();
 int verificarCodigoMateria(const char *Codigo);
-SAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-sAS
+
 #endif
